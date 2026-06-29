@@ -1,16 +1,48 @@
-<h1 align="center">Hi 👋, I'm Himanshu Varsheny</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=220&section=header&text=Himanshu%20Varshney&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20MCA%20@%20NIT%20Jamshedpur&descAlignY=58"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuvarshney001&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuvarshney001" /> </p>
+ <p >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuvarshney001" alt="himanshuvarshney001" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=himanshuvarshney001&style=flat-square&color=blueviolet"/>
 
-- 📫 How to reach me **himanshuvarshney8445@gmail.com**
+</p>
 
-- 📄 Know about my experiences [abc.pdf](abc.pdf)
+## 🚀 About Me
 
-- ⚡ Fun fact **I think i am little bit funny**
+- 🎓 MCA Student at **NIT Jamshedpur**
 
+- 💻 Passionate about **Full Stack Development**
+
+- 🌱 Currently learning **System Design & DevOps**
+
+- 👨‍💻 Solved **500+ DSA Problems**
+
+- 🚀 Interested in Product-Based Companies
+
+- 🤝 Love contributing to Open Source
+
+- 📫 Reach me at **himanshuvarshney8445@gmail.com**
+
+## 🌍 Coding Profiles
+
+<p >
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshu varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu varshney" height="30" width="40" /></a>
@@ -26,3 +58,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuvarshney001&show_icons=true&locale=en&layout=compact" alt="himanshuvarshney001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuvarshney001&show_icons=true&locale=en" alt="himanshuvarshney001" /></p>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/> -->
+
